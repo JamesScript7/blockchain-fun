@@ -28,7 +28,7 @@ const generateNextBlock = (blockData) => {
 }
 
 const getGenesisBlock = () => {
-  return new Block(0, "0", 1513644863, "my genesis block", "3b733bdc915f8391a0696f86b5655f644b59680380a33ad42040e937fcd11716");
+  return new Block(0, "0", 1513644863, "The beginning of it all", "99c1d6e94d191b03851c3e1c12dcc1c1382d35122b7b3862f127b73536f3980d");
 }
 
 let blockchain = [getGenesisBlock()];
