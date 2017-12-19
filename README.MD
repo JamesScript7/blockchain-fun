@@ -1,3 +1,3 @@
-#Blockchain in JavaScript
+# Blockchain in JavaScript
 
-A simple blockchain for practice.
+A simple blockchain practice in Javascript.
