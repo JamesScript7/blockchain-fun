@@ -8,4 +8,6 @@ class Block {
   }
 }
 
-console.log(Block);
+const calculateHash = (index, previousHash, timeStamp, data) => {
+  return 
+}
